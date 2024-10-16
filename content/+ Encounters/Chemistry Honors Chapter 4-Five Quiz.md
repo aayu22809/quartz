@@ -1,34 +1,15 @@
 ---
 share_link: https://share.note.sx/gkvpn9ye#dGXQL2zpVf7xH8HWXXGDbOYnKHnSLRk6bYi9sPareNg
 share_updated: 2024-10-15T15:09:27-07:00
+publish: true
 ---
 
 up::
-draft:: true
 
 # Chemistry Honors Chapter 4-Five Quiz
 
 This cram study session will prioritize key concepts by spending more time on high-yield topics such as electron configuration, periodic trends, and bonding, while also covering naming, formulas, and calculations in a structured way. We’ll use **active recall** through deep, holistic questions and practice problems to enhance retention, alternating between topics for variety. Breaks will be interspersed to maintain focus.
 
- 
-## Table of Contents
-1. [[#1. Electron Configuration & Orbital Diagrams (30 minutes)|1. Electron Configuration & Orbital Diagrams (30 minutes)]]
-	1. [[#1. Electron Configuration & Orbital Diagrams (30 minutes)#Definition|Definition]]
-	1. [[#1. Electron Configuration & Orbital Diagrams (30 minutes)#Active Recall/Practice:|Active Recall/Practice:]]
-	1. [[#1. Electron Configuration & Orbital Diagrams (30 minutes)#Deep Questions:|Deep Questions:]]
-1. [[#2. Periodic Table & Periodic Trends (30 minutes)|2. Periodic Table & Periodic Trends (30 minutes)]]
-	1. [[#2. Periodic Table & Periodic Trends (30 minutes)#Active Recall/Practice:|Active Recall/Practice:]]
-	1. [[#2. Periodic Table & Periodic Trends (30 minutes)#Deep Questions:|Deep Questions:]]
-1. [[#3. Bonding: Ionic vs Covalent (30 minutes)|3. Bonding: Ionic vs Covalent (30 minutes)]]
-	1. [[#3. Bonding: Ionic vs Covalent (30 minutes)#Active Recall/Practice:|Active Recall/Practice:]]
-	1. [[#3. Bonding: Ionic vs Covalent (30 minutes)#Deep Questions:|Deep Questions:]]
-1. [[#4. Empirical and Molecular Formulas, Percent Composition (30 minutes)|4. Empirical and Molecular Formulas, Percent Composition (30 minutes)]]
-	1. [[#4. Empirical and Molecular Formulas, Percent Composition (30 minutes)#Active Recall/Practice:|Active Recall/Practice:]]
-	1. [[#4. Empirical and Molecular Formulas, Percent Composition (30 minutes)#Deep Questions:|Deep Questions:]]
-1. [[#5. Hydrate Calculations (30 minutes)|5. Hydrate Calculations (30 minutes)]]
-	1. [[#5. Hydrate Calculations (30 minutes)#Active Recall/Practice:|Active Recall/Practice:]]
-	1. [[#5. Hydrate Calculations (30 minutes)#Deep Questions:|Deep Questions:]]
-1. [[#Review Strategy (10-15 mins at the end):|Review Strategy (10-15 mins at the end):]]
 
 
 ## Timeline:
@@ -40,6 +21,8 @@ This cram study session will prioritize key concepts by spending more time on hi
 | **9:00 - 9:30 PM**   | Bonding (Ionic vs Covalent) & Naming Compounds — Practice recognition and nomenclature drills.                                                                  |
 | **9:30 - 10:00 PM**  | Empirical, Molecular Formulas & Percent Composition — Work through practice problems on molecular and empirical formulas.                                       |
 | **10:00 - 10:30 PM** | Hydrates Calculations & Review — Quick review of hydrate practice problems, then final review of weak spots.                                                    |
+
+
 
 
 ## 1. Electron Configuration & Orbital Diagrams (30 minutes)
