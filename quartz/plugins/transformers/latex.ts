@@ -22,7 +22,7 @@ export const Latex: QuartzTransformerPlugin<Partial<Options>> = (opts) => {
     },
     htmlPlugins() {
       if (engine === "katex") {
-        return [[rehypeKatex, { output: "html", macros }]]
+        return [[rehypeKatex, { output: "html", strict: "error" }]]
       } else {
         return [[rehypeMathjax, { macros }]]
       }
