@@ -1,4 +1,4 @@
-up:: [[Home]]
+up:: [[index]]
 tags:: #map
 
 > [!NOTE]+ Notes on this note
@@ -83,4 +83,4 @@ The [[Art & Science Storytelling MOC]] look at some great storytellers of histor
 
 Please don't go crazy numbering things. We are just using a pre-made map so we can easily add dots of new interests. 
 
-Back to: [[Home]]
+Back to: [[index]]

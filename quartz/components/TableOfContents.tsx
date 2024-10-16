@@ -16,11 +16,12 @@ const defaultOptions: Options = {
 }
 
 const TableOfContents: QuartzComponent = ({
-  fileData,
-  displayClass,
-  cfg,
-}: QuartzComponentProps) => {
-  if (!fileData.toc) {
+                                            fileData,
+                                            displayClass,
+                                            cfg,
+                                          }: QuartzComponentProps) => {
+  // Prevent rendering the TOC on the index.md page
+  if (!fileData.toc || fileData.slug === "index") {
     return null
   }
 
@@ -67,7 +68,8 @@ TableOfContents.css = modernStyle
 TableOfContents.afterDOMLoaded = script
 
 const LegacyTableOfContents: QuartzComponent = ({ fileData, cfg }: QuartzComponentProps) => {
-  if (!fileData.toc) {
+  // Prevent rendering the TOC on the index.md page
+  if (!fileData.toc || fileData.slug === "index") {
     return null
   }
   return (

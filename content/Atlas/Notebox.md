@@ -1,4 +1,4 @@
-up:: [[Home]]
+up:: [[index]]
 tags:: #map/view 
 
 > [!NOTE]+  Only the "Boat" and "Develop" data views are included in the LYT Kit.

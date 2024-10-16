@@ -1,4 +1,4 @@
-up:: [[Home]]
+up:: [[index]]
 tags:: #map
 
 # Concepts MOC
@@ -65,4 +65,4 @@ SORT file.link asc
 
 ---
 
-Back to: [[Home]]
+Back to: [[index]]

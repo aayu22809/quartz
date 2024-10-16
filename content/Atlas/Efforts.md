@@ -1,4 +1,4 @@
-up:: [[Home]]
+up:: [[index]]
 tags:: #map
 
 # Efforts 🏋️

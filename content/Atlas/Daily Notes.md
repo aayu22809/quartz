@@ -1,4 +1,4 @@
-up:: [[Home]]
+up:: [[index]]
 tags:: #map/view 
 
 # Daily Notes
@@ -25,4 +25,4 @@ sort file.name desc
 
 ---
 
-Back to [[Home]]
+Back to [[index]]

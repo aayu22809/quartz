@@ -1,4 +1,4 @@
-up:: [[Home]]
+up:: [[index]]
 tags:: #map 
 
 # LYT Kit MOC
@@ -97,4 +97,4 @@ Note-makers create *living notes* that are able to grow in value and evolve over
 
 ---
 
-Back to [[Home]]
+Back to [[index]]

@@ -1,4 +1,4 @@
-up:: [[Home]]
+up:: [[index]]
 tags:: #map  
 
 > [!NOTE]+ Notes on this note
@@ -32,4 +32,4 @@ You might even find an excellent balance between managing projects and efforts o
 
 ---
 
-Back to: [[Home]]
+Back to: [[index]]

@@ -5,7 +5,7 @@ tags:: #on/PKM
 Your Home note is your north star, navigating you to your MOCs. It keeps the entire system organized.
 
 
-1. Go to the [[Home]] note. Check it out. 
+1. Go to the [[index]] note. Check it out. 
 	- Review the MOCs in your Home note.
       - Do you see categories that relate to you?
     - Review the keywords below
@@ -22,7 +22,7 @@ Remember, the structure works *for you*, not the other way around (See [[Is LYT 
 
 ---
 ### Advanced steps
-1. In the [[Home]] note, start customizing the Home MOCs to suit your personal needs. Less is more at the start of your journey. A bulleted list can be faster to work in (and easier to maintain) than a complicated table.
+1. In the [[index]] note, start customizing the Home MOCs to suit your personal needs. Less is more at the start of your journey. A bulleted list can be faster to work in (and easier to maintain) than a complicated table.
 2. Play around, break things. Some categories you thought would work won't. That's fine, just rejigger things until they work better for you.
 
 For more guidance on this, go to: [[Figuring out your Home MOCs]]

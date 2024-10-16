@@ -19,4 +19,4 @@ But first:
 If we mostly agree, then:
 
 - Go deeper into the [[LYT Kit]]...
-- Or go [[Home]].
+- Or go [[index]].

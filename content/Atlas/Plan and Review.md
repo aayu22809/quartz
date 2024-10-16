@@ -1,4 +1,4 @@
-up:: [[Home]]
+up:: [[index]]
 tags::  #map
 
 > [!NOTE]+ Notes on this note
